@@ -684,7 +684,7 @@ iframe{
                  section 4
 ---------------------------------------------------- */
 .card-sec-5-container {
-  width: 300px;
+  /* width: 300px; */
   height: 300px;
   position: relative;
   border-radius: 10px;
